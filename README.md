@@ -77,10 +77,10 @@ sudoku_solver
 
 - ![SolvedSudoku](https://github.com/user-attachments/assets/2375367b-2a8e-453b-9612-0ebd4ef928cc)
 
-# License
+## License
 
 This project is licensed under the Apache License 2.0 - see the <a href = "https://github.com/ahmedelazab1220/Java_Sudoku_Solver/blob/main/LICENSE"> LICENSE </a> file for details.
 
-# Conclusion
+## Conclusion
 
 This project showcases a Sudoku solver implemented in Java, featuring both backend logic and a graphical user interface (GUI). The code is well-organized, with separate packages for core Sudoku functionalities and the GUI components. Users can easily run the project from the terminal and view a preview of the GUI included in the README.md under the title "Sudoku Solver GUI Preview." This structure ensures maintainability and clarity, making it straightforward to understand, extend, and use the Sudoku solver application.
