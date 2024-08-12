@@ -68,18 +68,18 @@ sudoku_solver
   - `Run the Main class to start the application:`
     - java Main.java
 
+- **`Note`**
+  - you must go to path in your pc to run this commands correctly.
+
 ## Sudoku Solver GUI Preview
 
 - ![UnSolvedSudoku](https://github.com/user-attachments/assets/f67dd53c-cd61-484d-bda3-22dad68e9121)
 
 - ![SolvedSudoku](https://github.com/user-attachments/assets/2375367b-2a8e-453b-9612-0ebd4ef928cc)
 
-- **`Note`**
-  - you must go to path in your pc to run this commands correctly.
-
 # License
 
-This project is licensed under the MIT License - see the <a href = "https://github.com/ahmedelazab1220/Java_Sudoku_Solver/blob/main/LICENSE"> LICENSE </a> file for details.
+This project is licensed under the Apache License 2.0 - see the <a href = "https://github.com/ahmedelazab1220/Java_Sudoku_Solver/blob/main/LICENSE"> LICENSE </a> file for details.
 
 # Conclusion
 
