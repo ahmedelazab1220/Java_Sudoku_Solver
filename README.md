@@ -4,6 +4,7 @@ A Java-based Sudoku solver with a graphical user interface (GUI) built using Swi
 
 ## Key Features
 
+- **`OOP`**: The project uses a class-based structure with encapsulation, inheritance, and polymorphism to organize the Sudoku board, solver logic, and GUI, ensuring modularity and maintainability.
 - **`Interactive GUI`**: Provides a visual Sudoku board where users can click tiles to select and enter numbers.
 - **`Backtracking Solver`**: Utilizes a backtracking algorithm to solve Sudoku puzzles efficiently.
 - **`Error Handling`**: Validates user inputs and displays error messages for invalid entries.
