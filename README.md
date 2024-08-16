@@ -4,10 +4,10 @@ A Java-based Sudoku solver with a graphical user interface (GUI) built using Swi
 
 ## Key Features
 
-- Interactive GUI: Provides a visual Sudoku board where users can click tiles to select and enter numbers.
-- Backtracking Solver: Utilizes a backtracking algorithm to solve Sudoku puzzles efficiently.
-- Error Handling: Validates user inputs and displays error messages for invalid entries.
-- Threaded Solver: Uses a separate thread to solve the puzzle, ensuring the GUI remains responsive.
+- **`Interactive GUI`**: Provides a visual Sudoku board where users can click tiles to select and enter numbers.
+- **`Backtracking Solver`**: Utilizes a backtracking algorithm to solve Sudoku puzzles efficiently.
+- **`Error Handling`**: Validates user inputs and displays error messages for invalid entries.
+- **`Threaded Solver`**: Uses a separate thread to solve the puzzle, ensuring the GUI remains responsive.
 
 ## Purpose
 
